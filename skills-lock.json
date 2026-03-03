@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "coding-tutor": {
+      "source": "everyinc/compound-engineering-plugin",
+      "sourceType": "github",
+      "computedHash": "2094e4cb7f1d9d7306f72ba6f4c90d42d030b3fd1cac0a8b385bf8e39c0f5b5c"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "computedHash": "25872a21881a950edc3db1f3329664d60405d539660ce05b3265db2de06a7dfd"
+    },
+    "onboarding-guide-creator": {
+      "source": "travisjneuman/.claude",
+      "sourceType": "github",
+      "computedHash": "5d701ac5889bb4bf9e41468755e639cea505dd54c95ac1bca8d693d7a55751b2"
+    }
+  }
+}
